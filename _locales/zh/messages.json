@@ -1,0 +1,13 @@
+{
+  "extName": {
+    "message": "ChatCols | All-in-one 大模型对话应用"
+  },
+  "explain": {
+    "message": "解释：%s",
+    "description": "Explain the selected text"
+  },
+  "copilot": {
+    "message": "问问 Chatcols",
+    "description": "Ask Chatcols"
+  }
+}

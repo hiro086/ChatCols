@@ -1,0 +1,13 @@
+{
+  "extName": {
+    "message": "Chatcols - Multi-model chat, text-to-images"
+  },
+  "explain": {
+    "message": "Explain: %s",
+    "description": "Explain the selected text"
+  },
+  "copilot": {
+    "message": "Ask Chatcols",
+    "description": "Ask Chatcols"
+  }
+}
