@@ -1,8 +1,8 @@
 
 ## 📷 Screenshot
-![alt text](assets/image.png)
+![alt text](assets/img1.png)
 
-![alt text](assets/image-1.png)
+![alt text](assets/img2.png)
 
 ## ✨ Features
 - 支持任意中转API接入
